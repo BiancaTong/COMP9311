@@ -1,2 +1,1 @@
-# COMP9311
-2017 S1
+Database with MySQL
